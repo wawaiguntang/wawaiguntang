@@ -8,7 +8,7 @@ I'm a passionate **backend developer** specializing in building scalable and hig
 
 ### 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawaiguntang&langs_count=32&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawaiguntang&layout=compact&langs_count=16&theme=tokyonight" height="180px"/>
 </p>
 
 ---
