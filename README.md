@@ -6,17 +6,9 @@ I'm a passionate **backend developer** specializing in building scalable and hig
 
 ---
 
-### 📊 GitHub Statistics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wawaiguntang&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wawaiguntang&theme=tokyonight" height="180px"/>
-</p>
-
----
-
 ### 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawaiguntang&layout=compact&langs_count=8&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawaiguntang&langs_count=10&theme=tokyonight&layout=default" width="100%"/>
 </p>
 
 ---
